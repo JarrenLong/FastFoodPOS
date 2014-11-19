@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--
+ SkillsUSA National Championships 2012
+ Contestant #510
+ Program #1 - Fast Food Ordering System
+-->
+<menu>
+  <restaurant name="Ronny D's" address_a="123 Test St." address_b="City, ST 12345" phone="(123)456-7890">
+    <entree>
+      <item name="Burger" price="0.99" />
+      <item name="Cheeseburger" price="1.99" />
+      <item name="Double Burger" price="2.49" />
+      <item name="Bacon Burger" price="2.99" />
+      <item name="Papa Joe" price="3.29" />
+      <item name="Whomper" price="3.49" />
+      <item name="Big Mackeral" price="3.99" />
+    </entree>
+    <side>
+      <item name="Animal Crackers" price="1.09"/>
+      <item name="Apple Slices" price="1.29"/>
+      <item name="Potato Skins" price="3.49"/>
+      <item name="Mozzerella Sticks" price="4.99"/>
+    </side>
+    <drink sm_price="0.89" med_price="0.99" lg_price="1.09">
+      <item name="Coke" />
+      <item name="Diet Coke" />
+      <item name="Sprite" />
+      <item name="Root Beer" />
+      <item name="Lemonade" />
+      <item name="Dr. Pepper" />
+    </drink>
+  </restaurant>
+  <restaurant name="Burger Jack" address_a="125 Test St." address_b="City, ST 12345" phone="(123)456-7892">
+    <entree>
+      <item name="Single Burger" price="4.29" />
+      <item name="Double Burger" price="4.99" />
+      <item name="Triple Bypass" price="4.59" />
+      <item name="The Transplant" price="4.99" />
+      <item name="Egg-stravagant Burger" price="4.79" />
+      <item name="Cheese burger" price="4.99" />
+      <item name="Heissmeister Burger" price="4.89" />
+    </entree>
+    <side>
+      <item name="Slice of Pie" price="3.99"/>
+      <item name="Bagel" price="1.49"/>
+      <item name="Candy Cane" price="0.99"/>
+      <item name="Side of the Day" price="2.99"/>
+    </side>
+    <drink sm_price="1.29" med_price="1.39" lg_price="1.59">
+      <item name="Pepsi" />
+      <item name="Diet Pepsi" />
+      <item name="Mountain Dew" />
+      <item name="Root Beer" />
+      <item name="Ice Tea" />
+      <item name="Coffee" />
+    </drink>
+  </restaurant>
+  <restaurant name="Wendy Time" address_a="127 Test St." address_b="City, ST 12345" phone="(123)456-7894">
+    <entree>
+      <item name="Square Patty Burger" price="2.99" />
+      <item name="Round Patty Burger" price="1.99" />
+      <item name="Chili Dog" price="1.99" />
+      <item name="Soup of the Day" price="0.99" />
+      <item name="Finger Soup" price="0.25" />
+      <item name="Mystery Burger" price="4.99" />
+      <item name="Daily Special" price="3.99" />
+    </entree>
+    <side>
+      <item name="Dinner Roll" price="0.75" />
+      <item name="Cole Slaw" price="2.99" />
+      <item name="Chili Bowl" price="2.89" />
+      <item name="Tater Tots" price="1.79" />
+    </side>
+    <drink sm_price="0.99" med_price="1.19" lg_price="1.29">
+      <item name="Pepsi" />
+      <item name="Diet Pepsi" />
+      <item name="Coke" />
+      <item name="Diet Coke" />
+      <item name="Water" />
+    </drink>
+  </restaurant>
+</menu>
